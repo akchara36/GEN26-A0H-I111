@@ -1,6 +1,6 @@
 # Genesis 2026: Ideathon
 
-## GEN26-AOH-I111
+## GEN26-A0H-I111
 ### Team Details
 #### **Team Name**  LARBSTACK <br/>
 #### Team Members
