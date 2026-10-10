@@ -1,0 +1,29 @@
+﻿[
+	{
+		"uid": "GS:7000909943528048404",
+		"title": "Near miss detection using distancing monitoring and distance-based proximal indicators",
+		"source": "IEEE Access",
+		"publisher": "ieeexplore.ieee.org",
+		"article_url": "https://ieeexplore.ieee.org/abstract/document/10910104/",
+		"cites_url": "https://scholar.google.com/scholar?cites=7000909943528048404&as_sdt=2005&sciodt=2007&hl=en",
+		"fulltext_url": "https://ieeexplore.ieee.org/iel8/6287639/10820123/10910104.pdf",
+		"related_url": "https://scholar.google.com/scholar?q=related:FEd9UIA6KGEJ:scholar.google.com/&scioq=intitle:near+intitle:miss+intitle:detection+intitle:using+intitle:distancing+intitle:monitoring+intitle:and+intitle:%22distance+based%22+intitle:proximal+intitle:indicators&hl=en&as_sdt=2007",
+		"abstract": "Despite efforts to improve road safety, accidents persist due to insufficient evidence from manual police reporting, non-optimized detection algorithms, and technical limitations in real-time video processing and modelling. This study focuses on detecting and tracking vehicles within a monitoring system and analyzing near-miss incidents (black spot and unseen area), specifically examining the influence of video quality on detection performance using advanced model detectors (YOLOv4-tiny, YOLOv5, YOLOv7, and YOLOv7+ CNeB). The …",
+		"rank": 1,
+		"year": 2025,
+		"volume": 0,
+		"issue": 0,
+		"startpage": 0,
+		"endpage": 0,
+		"cites": 5,
+		"ecc": 5,
+		"use": 1,
+		"authors": [
+			"LM Lim",
+			"L Yang",
+			"W Zhu",
+			"ASA Mohamed",
+			"..."
+		]
+	}
+]

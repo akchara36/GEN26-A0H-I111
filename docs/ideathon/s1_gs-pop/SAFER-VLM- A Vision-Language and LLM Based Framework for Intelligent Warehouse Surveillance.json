@@ -1,0 +1,26 @@
+﻿[
+	{
+		"title": "SAFER-VLM: A Vision-Language and LLM Based Framework for Intelligent Warehouse Surveillance",
+		"source": "2025 5th International …",
+		"publisher": "ieeexplore.ieee.org",
+		"article_url": "https://ieeexplore.ieee.org/abstract/document/11396276/?casa_token=bffM577cDjUAAAAA:UIz_kHKsO_0fNRTc37_yIX98XryAEOQ95NnYyh52ZAudpQFpVdNFbrKBP_nFYU9F_N19hKUFekvw",
+		"fulltext_url": "https://ieeexplore.ieee.org/iel8/11396073/11396104/11396276.pdf?casa_token=Kl-A2-pqqrgAAAAA:dSpE1HS0CkMToA7b7gTq2svKrbmBXv_1z7TC3OHpNmYNBg11Ou_eDtXz5ktT63WRwzVmlXnQfIE1",
+		"related_url": "https://scholar.google.com/scholar?q=related:4u2czPC7gewJ:scholar.google.com/&scioq=intitle:%22safer+vlm%22+intitle:a+intitle:%22vision+language%22+intitle:and+intitle:llm+intitle:based+intitle:framework+intitle:for+intitle:intelligent+intitle:warehouse+intitle:surveillance&hl=en&as_sdt=2007",
+		"abstract": "CCTV surveillance is critical for productivity, safety, and compliance in modern warehouses, yet traditional monitoring remains manual, error-prone, and limited in actionable insight. We propose SAFER-VLM (Surveillance and Activity Flagging with Enhanced Reporting using Vision-Language Models), an intelligent video analytics pipeline that integrates computer vision with multimodal language models for interpretable warehouse monitoring. The system employs YOLOX for accurate worker detection and ByteTrack for robust identity tracking …",
+		"rank": 1,
+		"year": 2025,
+		"volume": 0,
+		"issue": 0,
+		"startpage": 0,
+		"endpage": 0,
+		"cites": 0,
+		"ecc": 0,
+		"use": 1,
+		"authors": [
+			"A Mitra",
+			"G Chalurvedi",
+			"S Biswas",
+			"..."
+		]
+	}
+]

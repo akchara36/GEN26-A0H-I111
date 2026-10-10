@@ -1,0 +1,28 @@
+﻿[
+	{
+		"uid": "GS:8153920306835693873",
+		"title": "Data analytics, machine learning and risk assessment for surveillance and situation awareness",
+		"source": "2020 21st …",
+		"publisher": "ieeexplore.ieee.org",
+		"article_url": "https://ieeexplore.ieee.org/abstract/document/9253816/?casa_token=ieFg-1uBSyMAAAAA:euNjdXnUIs9TWfhfcsDvmLjXO14p5d0jT9DlASPYkwVauFMXb33m1rA34GVTP99fHVE7Fj6wk9Iq",
+		"cites_url": "https://scholar.google.com/scholar?cites=8153920306835693873&as_sdt=2005&sciodt=2007&hl=en",
+		"fulltext_url": "https://ieeexplore.ieee.org/iel7/9253748/9253730/09253816.pdf?casa_token=WbmZd9icUtIAAAAA:hgY7vlw50ei4NO48292j1wHHOiTknT5kNY4uOtu6gxX8XWngCs5lSdlkMdKN7mwA1atXJmY8Gp9g",
+		"related_url": "https://scholar.google.com/scholar?q=related:MSHJV1GLKHEJ:scholar.google.com/&scioq=author:%22felix+opitz%22+intitle:data+intitle:analytics+intitle:machine+intitle:learning+intitle:and+intitle:risk+intitle:assessment+intitle:for+intitle:surveillance+intitle:and+intitle:situation+intitle:awareness&hl=en&as_sdt=2007&as_ylo=2015&as_yhi=2026",
+		"abstract": "Modern surveillance networks are able to provide trajectories of all kinds for aircrafts and vessels worldwide or at least in extended areas of the airspace or earth surface. Best known are Automatic Dependent Surveillance-Broadcast (ADS-B) and (Satellite-) Automatic Identification System (AIS) used in air and maritime surveillance. Both of them are cooperative systems. Besides these sources, sensors based on ground installations or mounted on airborne and space-based platforms deliver object trajectories independently of …",
+		"rank": 1,
+		"year": 2020,
+		"volume": 0,
+		"issue": 0,
+		"startpage": 0,
+		"endpage": 0,
+		"cites": 3,
+		"ecc": 3,
+		"use": 1,
+		"authors": [
+			"F Opitz",
+			"C Mohrdieck",
+			"K Dästner",
+			"..."
+		]
+	}
+]

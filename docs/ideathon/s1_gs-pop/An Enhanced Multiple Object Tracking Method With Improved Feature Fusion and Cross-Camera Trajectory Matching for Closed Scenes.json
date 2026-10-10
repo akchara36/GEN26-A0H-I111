@@ -1,0 +1,30 @@
+﻿[
+	{
+		"uid": "GS:9481669197669615959",
+		"title": "An enhanced multiple object tracking method with improved feature fusion and cross-camera trajectory matching for closed scenes",
+		"source": "IEEE Access",
+		"publisher": "ieeexplore.ieee.org",
+		"article_url": "https://ieeexplore.ieee.org/abstract/document/11072692/",
+		"cites_url": "https://scholar.google.com/scholar?cites=9481669197669615959&as_sdt=2005&sciodt=2007&hl=en",
+		"fulltext_url": "https://ieeexplore.ieee.org/iel8/6287639/6514899/11072692.pdf",
+		"related_url": "https://scholar.google.com/scholar?q=related:V0ncNOanlYMJ:scholar.google.com/&scioq=author:%22guangxun+zhu%22+intitle:an+intitle:enhanced+intitle:multiple+intitle:object+intitle:tracking+intitle:method+intitle:with+intitle:improved+intitle:feature+intitle:fusion+intitle:and+intitle:%22cross+camera%22+intitle:trajectory+intitle:matching+intitle:for+intitle:closed+intitle:scenes&hl=en&as_sdt=2007",
+		"abstract": "Traditional MOT methods often struggle with issues such as occlusions, identity switches, and limited cross-camera trajectory matching accuracy. To overcome these challenges, this paper proposes a modified advanced multiple object tracking (MOT) method based on the CSTrack algorithm, named MACSTrack, which aims to address the competition between detection and re-identification (ReID) tasks in MOT and enhance its applicability to cross-camera scenarios. MACSTrack introduces a reciprocal inhibition network (REIN) to deeply …",
+		"rank": 1,
+		"year": 2025,
+		"volume": 0,
+		"issue": 0,
+		"startpage": 0,
+		"endpage": 0,
+		"cites": 2,
+		"ecc": 2,
+		"use": 1,
+		"authors": [
+			"F Chen",
+			"G Zhu",
+			"Z Lv",
+			"K Wang",
+			"R Xu",
+			"J Liu"
+		]
+	}
+]
