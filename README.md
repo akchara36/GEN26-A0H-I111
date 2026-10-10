@@ -2,7 +2,7 @@
 
 ## GEN26-A0H-I111
 ### Team Details
-#### **Team Name** <<>> <br/> LARBSTACK
+#### **Team Name** <<>> LARBSTACK <br/> 
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
